@@ -1,0 +1,7 @@
+catatan kekurangan
+1. Eksekusi Presensi
+2. Laporan presensi
+3. Tambah filed NTA pada fitur login 
+(yang awalnya username ganti NTA saja)
+4. Chart presensi perbulan pada dashboard
+5. Online sistem
